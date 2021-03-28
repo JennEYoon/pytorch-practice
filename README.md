@@ -1,12 +1,12 @@
 # pytorch-practice
 Pytorch practice, classes, tutorials
 
-### Scipy 2020 Conference - Pytorch Tutorial  
- * Deep learning from scratch with Pytorch  
+### Scipy 2020 Conference - PyTorch Tutorial  
+ * Deep learning from scratch with PyTorch  
 
 
-### Udemy - Complete Pytorch by Jose Portilla  
- * Udemy - Pytorch  
+### Udemy - Complete PyTorch by Jose Portilla  
+ * Udemy - PyTorch  
 
 
 PyTorch docs:  https://pytorch.org/docs/stable/index.html  
