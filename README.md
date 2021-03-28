@@ -9,3 +9,10 @@ Pytorch practice, classes, tutorials
  * Udemy - Pytorch  
 
 
+PyTorch docs:  https://pytorch.org/docs/stable/index.html  
+
+PyTorch tutorials, official:  https://pytorch.org/tutorials/  
+
+PyTorch cheatsheet:  https://pytorch.org/tutorials/beginner/ptcheat.html  
+
+PyTorch own forum for Q & A:  https://discuss.pytorch.org/  
