@@ -1,4 +1,6 @@
-**After the tutorial, please leave feedback for us [here](https://hugobowne.typeform.com/to/NYClbcaE)! We'll use this information to help improve the content and delivery of the material.**
+**Scipy 2020 Conference - Pytorch Tutorial**  
+
+Source: Hugo Brown, https://github.com/hugobowne/deep-learning-from-scratch-pytorch    
 
 # deep-learning-from-scratch-pytorch
 Deep Learning from Scratch with PyTorch
