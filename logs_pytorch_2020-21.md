@@ -13,6 +13,7 @@
     - Has back-prop and NN math review  
     - First uses Numpy, then introduces PyTorch, not hard.  
     
-
-    
-    
+#### March 27, 2021 Update:  
+ * Udemy Jose Pytorch class - language model has character tokenization example.  
+ * good choice.   
+  
