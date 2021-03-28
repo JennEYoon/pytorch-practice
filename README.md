@@ -1,5 +1,5 @@
 # pytorch-practice
-Pytorch practice, classes, tutorials
+PyTorch practice, classes, tutorials
 
 ### Scipy 2020 Conference - PyTorch Tutorial  
  * Deep learning from scratch with PyTorch  
