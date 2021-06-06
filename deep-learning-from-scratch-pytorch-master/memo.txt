@@ -1,8 +1,10 @@
-This is forked, clone.  
+Not forked, zip download.  
+Saved as folder, .git folder removed.  Part of "git-practice" repo.
+6/5/2021 update, Jennifer Yoon
+
 SciPy 2020 conference tutorial - PyTorch  
 Refreshed recently, should not change much from now.  
 
-remote origin: me 
-remote upstream: hugobrowne/deep-learning-from-scratch-pytorch
+
 
 
