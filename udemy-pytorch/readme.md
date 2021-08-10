@@ -13,3 +13,8 @@ Put practice notes here.
     To create separate env, has yml file - ubuntu conda.  
 
   * Basic PyTorch - easy to understand.  Full exploration.  
+
+  * RNN has character tokenization.  
+    - has fun text examples, Pride and Prejudice, Tom Sawyer, sinewave in floating point numbers (y-axis).  
+    - corpus has formatting code, encoding part.  
+
