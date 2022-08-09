@@ -1,4 +1,4 @@
-**Scipy 2020 Conference - Pytorch Tutorial**  
+**Scipy 2020 Conference, July 2020 - Pytorch Tutorial**  
 
 Source: Hugo Brown, https://github.com/hugobowne/deep-learning-from-scratch-pytorch    
 
