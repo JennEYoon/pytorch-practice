@@ -1,4 +1,7 @@
-# June 2021  
+# August 2025  
+
+Do first 6 chapters, 
+Deep Learning w PyTorch, 2020 Manning, Stevens, Antiga, Viehmann  
 
 To do some practice  
 
